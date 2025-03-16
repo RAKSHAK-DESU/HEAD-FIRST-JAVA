@@ -8,9 +8,9 @@ public class DIVISION {
             float num1= scanner.nextFloat();
 
             System.out.println("Enter 2nd Number");
-            float num2= scanner.nextFloat();
+            float num4= scanner.nextFloat();
 
-            float result= num1/num2;
+            float result= num1/num4;
             System.out.println(result);
 
         }
